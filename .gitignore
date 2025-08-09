@@ -64,7 +64,7 @@ web_modules/
 # Optional npm cache directory
 
 .npm
-.vscode/
+
 
 # Optional eslint cache
 
@@ -166,3 +166,7 @@ dist
 .env*
 !.env.example
 .wrangler/
+
+# vscode 
+.vscode/
+.vscode/settings.json
